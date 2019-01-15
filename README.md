@@ -1,9 +1,27 @@
 # Mediatheque
-Site pour les passionnés de films, projet imposé en classe.
-Après s'être inscrit, il suffit de se connecter.(la base de donnée est dans le fichier)
-Une fois connecté vous avez une vue globale de tous les films contenus dans la table "film" de la bdd "exoformulaire".
-Il est possible en allant dans l'onglet "gestion" de la navbar d'effectuer différentes actions (ajouter un fim/modifier/supprimé).
+Site pour les passionnés de films.
 
-La fonctionalité modifier un film est à optimiser.
-La foncton recherche également.
+DESCRIPTION
+
+Le site permet d'avoir une banque de films.
+Le projet à été imposé en classe et était de faire un site médiathèque de films.
+
+FONCTIONALITE
+
+Les utilisateurs ni connectés ni inscrit ont accès aux pages (onglets de navbar) suivantes :
+ 
+-Accueil : avec le logo, le slogan, un carrousel(statique) d'affiches de films.
+-Connexion/Inscription : La personne qui ne possède pas de compte (et qui ne peux donc pas se connecter) à la possibilité de s’inscrire. Les champs obligatoires sont précisés.
+
+
+Une fois connecté vous avez une vue globale de tous les films contenus dans la table "film" de la bdd "exoformulaire" et il est possible de :
+
+-Rechercher un film parmis tous ceux de la table film
+-Avoir accès à un panel de gestion ou il peut modifier les films, en ajouter de nouveaux ou en supprimer.
+-Pour finir le fameux onglet déconnexion.
+
+A OPTIMISER
+-popup de deconnexion
+-modifier un film est à optimiser.
+-recherche d'un film
 
