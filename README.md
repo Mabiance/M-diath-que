@@ -1,12 +1,12 @@
 # Mediatheque
 Site pour les passionnés de films.
 
-DESCRIPTION
+# DESCRIPTION
 
 Le site permet d'avoir une banque de films.
 Le projet à été imposé en classe et était de faire un site médiathèque de films.
 
-FONCTIONALITE
+# FONCTIONALITE
 
 Les utilisateurs ni connectés ni inscrit ont accès aux pages (onglets de navbar) suivantes :
  
@@ -20,7 +20,7 @@ Une fois connecté vous avez une vue globale de tous les films contenus dans la 
 -Avoir accès à un panel de gestion ou il peut modifier les films, en ajouter de nouveaux ou en supprimer.
 -Pour finir le fameux onglet déconnexion.
 
-A OPTIMISER
+# A OPTIMISER
 -popup de deconnexion
 -modifier un film est à optimiser.
 -recherche d'un film
