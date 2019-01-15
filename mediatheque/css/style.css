@@ -1,0 +1,68 @@
+body {
+    padding-top: 120px;
+    font-family: 'Lobster', cursive;
+}
+
+.form-area
+{
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    margin: 10px 0px 60px;
+    border: 1px solid GREY;
+}
+
+.btn-purple {
+    color: #fff;
+    background-color: #B65999;
+    border-color: #B65999;
+}
+
+.btn-purple:hover {
+    color: #fff;
+    background-color: #88446b;
+    border-color: #88446b;
+}
+.page-link {
+    color: #B65999;
+}
+
+.page-link:hover {
+    color: #88446b;
+}
+
+.list-group-item.active {
+    background-color: #B65999;
+    border-color: #B65999;
+}
+
+.alert-purple {
+    color: dark;
+    background-color: #f5c6cb;
+    border-color: #f5c6cb;
+}
+
+
+.card-img-top {
+  width: 200px;
+  height: 250px;
+}
+
+.btn-white {
+  background: white;
+  border-color: white;
+}
+
+
+.ml4 {
+  position: relative;
+  font-weight: 900;
+  font-size: 4.5em;
+}
+.ml4 .letters {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0.3em;
+  right: 0;
+  opacity: 0;
+}
