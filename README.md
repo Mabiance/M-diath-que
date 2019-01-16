@@ -7,6 +7,7 @@ Le site permet d'avoir une banque de films.
 Le projet à été imposé en classe et était de faire un site médiathèque de films.
 Voici quelques photos du site: 
 ![image_IMG](https://github.com/Mabiance/Mediatheque/blob/master/acceuil.png)
+![image_IMG](https://github.com/Mabiance/Mediatheque/blob/master/com.png)
 ![image_IMG](https://github.com/Mabiance/Mediatheque/blob/master/ajouter.png)
 
 # FONCTIONALITE
