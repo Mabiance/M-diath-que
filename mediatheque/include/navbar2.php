@@ -37,7 +37,10 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="panel.php">Gestion</a>
-
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="commentaire.php">Commentaires</a>
+</li>
             </ul>
 
 
